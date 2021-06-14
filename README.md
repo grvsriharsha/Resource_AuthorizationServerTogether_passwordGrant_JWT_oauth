@@ -1,4 +1,4 @@
-# passwordGrant_JWTTokenstore_oauth
+# passwordGrant_using JWTTokenstore_Both Authorization and Resourse servers are together
 
 First run the sql files in sql folder,which now includes creating rule ,user,oauth_access_token,oauth_referesh_token so spring security can use this.
 The Authorization and Resource Server is created.
